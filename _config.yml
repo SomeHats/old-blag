@@ -3,17 +3,18 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            j.dytry.ch
+tagline:          A blog about building games and learning tools, often at the same time.
+url:              http://j.dytry.ch
+paginate:         6
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Joe Dytrych
+  url:            https://twitter.com/somehats
+  email:          j@dytry.ch
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/somehats/j.dytry.ch
+excerpt_separator: <!--more-->
