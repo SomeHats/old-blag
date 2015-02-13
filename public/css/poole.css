@@ -472,5 +472,13 @@ ul li:before {
   overflow: visible;
   width: 0;
   position: relative;
-  left: -1.5em;
+  left: -1.2em;
+}
+
+ul ul li:before {
+  content: '-';
+}
+
+ul ul ul li:before {
+  content: '*';
 }
