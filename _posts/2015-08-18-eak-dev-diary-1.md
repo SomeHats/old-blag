@@ -10,16 +10,16 @@ The new plan is to do a sort of development diary for [E.A.K](https://eraseallki
 
 {% include figure.html src="/images/2015/buttstacks.png" caption="Boris J. Buttstacks, illegitimate mayor of Ponyhead Bay" class="right" %}
 
-Anyway, this week we've been working on a mini-game to teach about URLs.
+Anyway, this week we've been working on a mini-game to teach players about URLs. <!--more-->
 
 In the game, the illegitimate mayor of Ponyhead Bay asks Arca to fetch some objects. The mayor gives you URLs which you have to follow to find the objects. You follow the URLs by first going to towns (domains), then buildings (paths) etc. I want to cover the distinction between `http` and `https` too, but I'm not sure how to make that work yet.
 
 For example, the URL for a jar of pickled onions at Onions-R-Us on Bulbous Island would be `http://bulbous-island.com/onions-r-us/pickled-onions`.
 
-We map abstract concepts from the world of web-literacy to physical objects all the time in E.A.K. It's a great way to keep things engaging, and help make concepts more intuitive. Your metaphors have to break down at some point though - and when they do, they can make things confusing for players.
+We map abstract concepts from the world of web-literacy to physical game-objects all the time in E.A.K. It's a great way to keep things engaging, and help make concepts more intuitive. Your metaphors have to fail at some point though --- and when they do, they make things confusing for players.
 
-This is a trade-off I'm not always happy with, but it's necessary to have learning as a side-effect of game-play.
+This is a trade-off I'm not always happy with, but it's necessary to have learning as a side-effect of game-play. The alternative is the dreadful 'gamified learning' tools that we're trying so hard to do better than --- educational tools with game-mechanics awkwardly glued on top.
 
-ANYWAY THIS POST HAD NOTHING TO DO WITH DEV STUFF OH WELL HAVE A DEMO VIDEO.
+ANYWAY THIS POST HAD NOTHING TO DO WITH DEV STUFF OH WELL HAVE A SHITTY DEMO VIDEO.
 
 <iframe width="432" height="270" src="https://www.youtube.com/embed/rhEhfTt0g3o" frameborder="0" allowfullscreen></iframe>
