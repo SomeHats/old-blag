@@ -1,5 +1,5 @@
 # Permalinks
-permalink:        pretty
+permalink:        "/:categories/:year/:title.html"
 relative_permalinks: true
 
 # Setup
@@ -19,3 +19,11 @@ github:
   repo:           https://github.com/somehats/j.dytry.ch
 excerpt_separator: <!--more-->
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
