@@ -496,10 +496,6 @@ figure {
 }
 
 @media (min-width: 30em) {
-  figure {
-    width: 50%;
-  }
-
   figure.left {
     float: left;
     margin-left: 0;

@@ -1,6 +1,7 @@
 ---
 title: 1 Year of Drum Roll
 ---
+### E.A.K. Dev Diary 2
 Drum Roll is a year old today. It's been a year since I quit my job and started building a game about rescuing cat gifs full time. Realising this makes me feel weird. The last 12 months have gone so fast and been so strange.
 
 The last big update to the E.A.K. demo was released on the 26th of September, 2014. Since then, we've only released tiny tweaks and bug fixes. But on the 28th of September, 2015, we will be releasing the beta version of E.A.K.. This is terrifying. <!--more-->
